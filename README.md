@@ -1,4 +1,4 @@
 MySite
 ======
 
-My first site build by python
+My first site build with python.
